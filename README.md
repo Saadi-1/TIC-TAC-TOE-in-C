@@ -36,10 +36,3 @@ This is a simple implementation of the classic Tic-Tac-Toe game in C.
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to better fit your project or add any additional information you think would be helpful for users or contributors.
